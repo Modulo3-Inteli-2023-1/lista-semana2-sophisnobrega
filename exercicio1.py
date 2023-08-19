@@ -8,6 +8,8 @@ def conta_palavras_unicas(frase: str) -> int: # entra string e sai inteiro
 #print('Quantidade de palavras únicas:', quantidade)
 
 
+# NO VSCODE TA FUNCIONANDO DE BOA, NÃO SEI O QUE O GITHUB TEM COMIGO
+
 
 
 
